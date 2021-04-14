@@ -1,0 +1,3 @@
+Sanjay,40000
+Kunno,30000
+Harshal,20000

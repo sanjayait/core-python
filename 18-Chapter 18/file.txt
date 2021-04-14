@@ -1,0 +1,5 @@
+hello my name is sanjay
+I m a python developer
+
+# To create file by terminal--
+echo -e "hello my name is sanjay\nI m a python developer" >>file.txt
